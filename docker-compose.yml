@@ -1,7 +1,7 @@
 
 version: '3'
 services:
-  mongo:
+  jenkins:
     image: jenkins/jenkins
     user: root
     restart: always
